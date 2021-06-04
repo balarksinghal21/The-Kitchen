@@ -1,0 +1,48 @@
+/* Navigation Bar */
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 10px;
+}
+/* Home Section */
+#home{
+    height: 280px;
+    padding: 3px 30px;
+}
+#home::before{
+    height: 436px;
+}
+#home p{
+    font-size: 17px;
+}
+/* Services Section */
+#services{
+    flex-direction: column;
+}
+/* #services.box{
+    padding: 14px;
+    margin: 2px 7px;
+    margin-bottom: 18px;
+} */
+/* Booking Section */
+#booking{
+    flex-direction: column;
+}
+/* Special Section */
+#special{
+    flex-direction: column;
+}
+/* Contact Us Section */
+
+
+/* Utility Classes */
+.h-primary{
+    font-size: 23px;
+}
+.btn{
+    font-size: 18px;
+    padding: 5px 10px;
+}
