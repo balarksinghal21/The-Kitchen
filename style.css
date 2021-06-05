@@ -133,6 +133,8 @@ html{
 }
 #services .box:hover{
     transform: scale(1.03);
+    background-color: grey;
+    color: white;
 }
 /* Booking Section */
 
@@ -162,6 +164,8 @@ html{
 }
 #booking .box:hover{
     transform: scale(1.03);
+    background-color: grey;
+    color: white;
 }
  /* Specials Section */
 #special{
@@ -189,6 +193,8 @@ html{
 }
 #special .box:hover{
     transform: scale(1.03);
+    background-color: grey;
+    color: white;
 }
 /* Contact Section */
 #contact{
